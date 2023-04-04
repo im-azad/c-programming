@@ -1,0 +1,1 @@
+Enter value of aEnter value of bThe sum of a and b 30
